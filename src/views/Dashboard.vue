@@ -1,22 +1,21 @@
 <template>
 
 <div class="container">
-    <br/>
+    <br>
     <div class="row">
         <div class="col-md-2">
             
         </div>
         <div class="col-md-8">
-            <h1> Register User </h1>
+            <h1> Dashboard </h1>
         </div>
         <div class="col-md-2">
             
         </div>
        
     </div>
-    <br/>
+    <br>
     
-
     <div class="row">
         <div class="col-md-2">
             Left
